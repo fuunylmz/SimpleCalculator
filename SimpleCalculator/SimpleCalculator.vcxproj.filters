@@ -18,12 +18,12 @@
     <ClCompile Include="SimpleCalculator.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Calculator.cpp">
+    <ClCompile Include="Class\Calculator.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Calculator.h">
+    <ClInclude Include="Include\Calculator.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
